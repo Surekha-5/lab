@@ -1,1 +1,2 @@
-# lab
+print("student name")
+print("usn")
